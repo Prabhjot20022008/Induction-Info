@@ -40,14 +40,56 @@
 
 ## 🧾 In a Nutshell
 
-| 🕒 Time               | 🗂️ Activity             | 📌 Key Highlights                                      |
-|----------------------|-------------------------|--------------------------------------------------------|
-| 8:30 AM - 9:30 AM    | 🛕 Shabad Kirtan        | Divine blessings at Gurudwara Sahib                   |
-| 9:30 AM - 10:00 AM   | ☕ Tea & Snacks         | Refreshment break                                     |
-| 10:00 AM - 12:30 PM  | 🎤 Welcome Program      | Principal, HoD, and Govt. Officials welcomed us       |
-| 12:30 PM - 1:00 PM   | 🍱 Break Time           | Lunch & campus walk                                   |
-| 1:00 PM - 4:00 PM    | 💻 Visit to CSE Block   | Classrooms, labs, and marking scheme explained        |
+| 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
+|----------------------|-------------------------|--------------------------------------------------|
+| 8:30 AM - 9:30 AM    | 🔶  Shabad Kirtan        | Divine blessings at Gurudwara Sahib             |
+| 9:30 AM - 10:00 AM   | 🔶  Tea & Snacks         | Refreshment break                               |
+| 10:00 AM - 12:30 PM  | 🔶  Welcome Program      | Principal, HoD, and Govt. Officials welcomed us |
+| 12:30 PM - 1:00 PM   | 🔶  Break Time           | Lunch & campus walk                             |
+| 1:00 PM - 4:00 PM    | 🔶  Visit to CSE Block   | Classrooms, labs, and marking scheme explained  |
 
 ---
 
 > ✨ *Day 1 was filled with excitement, blessings, and new beginnings. Looking forward to an inspiring journey ahead!* 🚀
+
+
+## 📅 Day 2 — Tests, Talks, and Takeaways!
+
+---
+
+### 🔶 **English Proficiency Test** `⏰ 9:30 A.M. - 10:30 A.M.`  
+📍 *Location:* Applied Science Block   
+- Gave a 30 Marks proficiency test including Reading, Writing & Grammar.
+
+---
+
+### 🔶 **Maths Proficiency Test** `⏰ 10:30 A.M. - 11:30 A.M.`  
+📍 *Location:* Applied Science Block  
+- Gave a 30 Marks proficiency test including statistics, trignometry, ratio sums.
+
+### 🔶 **Break Time** `⏰ 11:30 P.M. - 01:00 P.M.`  
+- Got time to grab lunch and relax.  
+- Walked through the campus & enjoyed the vibe.
+
+### 🔶 **Induction Program** `⏰ 01:00 P.M. - 04:00 P.M.`  
+📍 *Venue:* College Auditorium  
+✨ Key highlights:  
+-  Speech by **Dr. Arashdeep Singh** on **Food: A Pivotal Role in Student's Overall Wellness.**
+- -  Got awared about food choices & busted some food-myths. 
+-  Team of **Satya Scholarship Program** gave a quick tutorial to apply for the scholarship & eligibility criteria.
+- Got to know about **Github** & how to make **README.md** using markdown language from Seniors.
+
+---
+
+## 🧾 In a Nutshell
+
+| 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
+|----------------------|-------------------------|-----------------------------------------------|
+| 9:30 AM - 10:30 AM  | 🔶  English Proficiency Test | Reading, Writing & Grammar                |
+| 10:30 AM - 11:30 AM | 🔶 Maths Proficiency Test    | Covered Class 11th & 12th Topics          |
+| 11:30 AM - 01:00 PM | 🔶  Break Time               | Lunch & campus walk                       |
+| 01:00 PM - 04:00 PM | 🔶 Induction Program         | Speech on Food, Satya Scholarship Program |
+
+---
+
+> ✨ *Day 2 tested our minds and nourished our thoughts — from exams to eye-opening talks, it was a day of reflection and growth!* 🚀
