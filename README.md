@@ -67,9 +67,13 @@
 📍 *Location:* Applied Science Block  
 - Gave a 30 Marks proficiency test including statistics, trignometry, ratio sums.
 
+---
+
 ### 🔶 **Break Time** `⏰ 11:30 P.M. - 01:00 P.M.`  
 - Got time to grab lunch and relax.  
 - Walked through the campus & enjoyed the vibe.
+
+---
 
 ### 🔶 **Induction Program** `⏰ 01:00 P.M. - 04:00 P.M.`  
 📍 *Venue:* College Auditorium  
