@@ -92,7 +92,7 @@
 | 9:30 AM - 10:30 AM  | 🔶  English Proficiency Test | Reading, Writing & Grammar                |
 | 10:30 AM - 11:30 AM | 🔶 Maths Proficiency Test    | Covered Class 11th & 12th Topics          |
 | 11:30 AM - 01:00 PM | 🔶  Break Time               | Lunch & campus walk                       |
-| 01:00 PM - 04:00 PM | 🔶 Induction Program         | Speech on Food, Satya Scholarship Program |
+| 01:00 PM - 04:00 PM | 🔶 Induction Program         | Speech on Food, Satya Scholarship Program & Github-Intro |
 
 ---
 
