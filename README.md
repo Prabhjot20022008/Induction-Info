@@ -1,5 +1,6 @@
 # Induction-Info
- 
+---
+
 ## 📅 Day 1 — A Fresh Beginning
 
 ---
@@ -52,6 +53,7 @@
 
 > ✨ *Day 1 was filled with excitement, blessings, and new beginnings. Looking forward to an inspiring journey ahead!* 🚀
 
+---
 
 ## 📅 Day 2 — Tests, Talks, and Takeaways!
 
@@ -97,3 +99,37 @@
 ---
 
 > ✨ *Day 2 tested our minds and nourished our thoughts — from exams to eye-opening talks, it was a day of reflection and growth!* 🚀
+
+---
+
+## 📅 Day 3 — Learning Beyond Books!
+
+---
+
+### 🔶 **Dr. Jaswinder Singh's Lecture** `⏰ 9:00 A.M. - 11:30 A.M.`  
+📍 *Location:* Auditorium   
+- An engaging lecture about **Mathematics, Science** & **Philosophy.**
+- Deep dived into teachings of **Gurbani**, meaning of **108** & **ੴ**
+- Practical experiments gave more clarity to the relation between **Nature** & **Science.**
+
+### 🔶 **Dr. Priya Darshni's Lecture** `⏰ 11:30 A.M. - 01:30 P.M.`  
+📍 *Location:* Auditorium   
+- Much needed Lecture on **Universal Human Values.**
+- Taught us about the **Purpose of Life** and the **Ultimate Goal** i.e. **Happiness.**
+- Learnt how to maintain balance among **Mutual Understanding, Relationships** & **Practical Needs.**
+
+---
+
+## 🧾 In a Nutshell
+
+| 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
+|----------------------|-------------------------|-----------------------------------------------|
+| 9:00 AM - 11:30 AM  | 🔶 Dr. Jaswinder Singh's Lecture | About Science, Mathematics & Philosophy |
+| 11:30 AM - 01:30 PM | 🔶 Dr. Priya Darshni's Lecture | About Universal Human Values & Purpose of Life |
+
+---
+
+> ✨ *Day 3 was a journey inward — blending science, spirituality, and self-discovery. A truly thought-provoking experience!* 🚀
+
+---
+
