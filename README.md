@@ -112,7 +112,7 @@
 - Deep dived into teachings of **Gurbani**, meaning of **108** & **ੴ**
 - Practical experiments gave more clarity to the relation between **Nature** & **Science.**
 
-### 🔶 **Dr. Priya Darshni's Lecture** `⏰ 11:30 A.M. - 01:30 P.M.`  
+### 🔶 **Dr. Priya Darshni Mam Lecture** `⏰ 11:30 A.M. - 01:30 P.M.`  
 📍 *Location:* Auditorium   
 - Much needed Lecture on **Universal Human Values.**
 - Taught us about the **Purpose of Life** and the **Ultimate Goal** i.e. **Happiness.**
@@ -125,7 +125,7 @@
 | 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
 |----------------------|-------------------------|-----------------------------------------------|
 | 9:00 AM - 11:30 AM  | 🔶 Dr. Jaswinder Singh's Lecture | About Science, Mathematics & Philosophy |
-| 11:30 AM - 01:30 PM | 🔶 Dr. Priya Darshni's Lecture | About Universal Human Values & Purpose of Life |
+| 11:30 AM - 01:30 PM | 🔶 Dr. Priya Darshni Mam Lecture | About Universal Human Values & Purpose of Life |
 
 ---
 
@@ -133,3 +133,50 @@
 
 ---
 
+## 📅 Day 4 — Curiosity, Code & Campus Vibes!
+
+---
+
+### 🔶 **Chemistry Lecture** `⏰ 9:30 A.M. - 10:30 A.M.`  
+📍 *Location:* TCC Sem Hall   
+- An interseting session by **Prof. Rajvir Kaur Mam.**
+- Gave a brief introduction about the **Chemistry Group.**
+- Got to know about **Syllabus, Exam Pattern** and other subjects in **Chemistry Group.**
+
+### 🔶 **P2P Lecture** `⏰ 10:30 A.M. - 11:30 A.M.`  
+📍 *Location:* TCC Sem Hall   
+- A session by our **seniors** about basics of **Programming.** 
+- Understood **Algorithms, Pseudocode** & other **Programming terms.**
+
+### 🔶 **Break Time** `⏰ 11:30 A.M. - 12:30 P.M.`  
+- Got time to grab lunch and relax.  
+- Walked through the campus & enjoyed the vibe.
+
+### 🔶 **Dr. Priya Darshni Mam Lecture** `⏰ 12:30 P.M. - 02:30 P.M.`  
+📍 *Location:* Auditorium   
+- Continued discussions about **Universal Human Values.**
+- Explained about what is **Life** in itself & the **Purpose of Life.**
+- Learnt how our **Physical body** & **Consciousness** are different.
+
+### 🔶 **Session by Causmic Club** `⏰ 02:30 P.M. - 03:30 P.M.`  
+📍 *Location:* Auditorium   
+- **Members** of **Causmic Club** introduced themselves & showcased their **Talent.** 
+- Explored the **Club's website** & their **Activities.**
+- A quick **PC** buying **Guide** was also given by the **Club's Members.**
+---
+
+## 🧾 In a Nutshell
+
+| 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
+|----------------------|-------------------------|-----------------------------------------------|
+| 9:30 AM - 10:30 AM  | 🔶 Chemistry Lecture | About syllabus, exam-pattern & basic intro |
+| 10:30 AM - 11:30 AM | 🔶 P2P Lecture | A quick intro to Programming |
+| 11:30 AM - 12:30 PM | 🔶 Break | Lunch & campus walk |
+| 12:30 PM - 02:30 PM | 🔶 Dr. Priya Darshni Mam Lecture | About Universal Human Values & Purpose of Life |
+| 02:30 PM - 03:30 PM | 🔶 Session by Causmic Club | A brief intro to the Causmic Club |
+
+---
+
+> ✨ *Day 4 brought together curiosity in science, clarity in values, and creativity through clubs — a well-rounded and vibrant experience!* 🚀
+
+---
