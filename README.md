@@ -139,7 +139,7 @@
 
 ### 🔶 **Chemistry Lecture** `⏰ 9:30 A.M. - 10:30 A.M.`  
 📍 *Location:* TCC Sem Hall   
-- An interseting session by **Prof. Rajvir Kaur Mam.**
+- An interesting session by **Prof. Rajvir Kaur Mam.**
 - Gave a brief introduction about the **Chemistry Group.**
 - Got to know about **Syllabus, Exam Pattern** and other subjects in **Chemistry Group.**
 
@@ -178,5 +178,39 @@
 ---
 
 > ✨ *Day 4 brought together curiosity in science, clarity in values, and creativity through clubs — a well-rounded and vibrant experience!* 🚀
+
+---
+
+## 📅 Day 5 — Learning in Full Voltage!
+
+---
+
+### 🔶 **English Lecture** `⏰ 9:30 A.M. - 10:30 A.M.`  
+📍 *Location:* ME Sem Hall   
+- An engaging interaction with **Prof. Manjot Kaur Mam.**
+- Explained about **Syllabus** & **Exam Pattern** in brief.
+- An activity to **Introduce Yourself** was also conducted.
+
+### 🔶 **Maths Lecture** `⏰ 10:30 A.M. - 11:30 A.M.`  
+📍 *Location:* ME Sem Hall   
+- **Prof. Rajbir Kaur Mam** took an interesting session.
+- Talked about **Matrices, Complex numbers, Derivatives** & **Differential equations.**
+
+### 🔶 **BEEE Lecture** `⏰ 11:30 A.M. - 12:30 P.M.` 
+📍 *Location:* Room No. F-108   
+- **Prof. Mandeep Kaur Mam** explained about **BEEE** & the **Syllabus.**  
+- Quick revised **Resistors, Capacitors** & **Inductors.**
+
+## 🧾 In a Nutshell
+
+| 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
+|----------------------|-------------------------|-----------------------------------------------|
+| 9:30 AM - 10:30 AM  | 🔶 English Lecture | About syllabus, exam-pattern & basic intro |
+| 10:30 AM - 11:30 AM | 🔶 Maths Lecture | Discussed Class 12th Maths topics |
+| 11:30 AM - 12:30 PM | 🔶 BEEE Lecture | Revised resistors, capacitors & inductors |
+
+---
+
+> ✨ *Day 5 sparked fresh knowledge across languages, numbers, and circuits — a compact but content-rich experience!* 🚀
 
 ---
