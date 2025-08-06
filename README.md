@@ -251,7 +251,7 @@
 | 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
 |----------------------|-------------------------|-----------------------------------------------|
 | 9:30 AM - 10:30 AM  | 🔶 P2P Lecture | About operators and syntax in C++ |
-| 10:30 AM - 11:30 AM | 🔶 Maths Lecture | Brief intro about CSE and Tech |
+| 10:30 AM - 11:30 AM | 🔶 Prof. Jaswant Singh Sir Lecture | Brief intro about CSE and Tech |
 | 11:30 AM - 01:30 PM | 🔶 Break | Lunch & campus walk |
 | 01:30 PM - 02:30 PM | 🔶 Shri. Gurucharan Singh Grewal  Speech | About his experience in GNDEC & its heritage |
 | 02:30 PM - 03:30 PM | 🔶 Dr. Lakhvir Singh Khana Sir Lecture | About CML & SWAYAM-NPTEL |
