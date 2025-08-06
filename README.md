@@ -214,3 +214,50 @@
 > ✨ *Day 5 sparked fresh knowledge across languages, numbers, and circuits — a compact but content-rich experience!* 🚀
 
 ---
+
+## 📅 Day 6 — From Code to Campus Wisdom!
+
+---
+
+### 🔶 **P2P Lecture** `⏰ 9:30 A.M. - 10:30 A.M.`  
+📍 *Location:* Workshop Sem Hall   
+- **3rd Year IT Students** explained briefly about **C++ Programming.**
+- Explained about **Operators** & their **Types.**
+- Gave a **Practice Problem** for revision as well.
+
+### 🔶 **Prof. Jaswant Singh Sir Lecture** `⏰ 10:30 A.M. - 11:30 A.M.`  
+📍 *Location:* Workshop Sem Hall   
+- An interactive session about **Tech** & **Programming Languages.**.
+- Shared my **Personal interests** as well.
+- Explained about **CSE** in a nutshell.
+
+### 🔶 **Break Time** `⏰ 11:30 A.M. - 01:30 P.M.`  
+- Got time to grab lunch and relax.  
+- Walked through the campus & enjoyed the vibe.
+
+### 🔶 **Speech by Shri. Gurucharan Singh Grewal** `⏰ 01:30 P.M. - 02:30 P.M.`  
+📍 *Location:* Auditorium   
+- Shared his experiences about **GNDEC** and its rich **Heritage.** 
+- Got to know about **GNDEC Alumni Network.**
+
+### 🔶 **Dr. Lakhvir Singh Khana Sir Lecture** `⏰ 02:30 P.M. - 03:30 P.M.`  
+📍 *Location:* Auditorium   
+- Gave a brief Intro about the **CML** (Center for multi faceted Learning). 
+- How to enroll in it and its activities.
+- How to get certifications through **SWAYAM** & **NPTEL.**
+
+## 🧾 In a Nutshell
+
+| 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
+|----------------------|-------------------------|-----------------------------------------------|
+| 9:30 AM - 10:30 AM  | 🔶 P2P Lecture | About operators and syntax in C++ |
+| 10:30 AM - 11:30 AM | 🔶 Maths Lecture | Brief intro about CSE and Tech |
+| 11:30 AM - 01:30 PM | 🔶 Break | Lunch & campus walk |
+| 01:30 PM - 02:30 PM | 🔶 Shri. Gurucharan Singh Grewal  Speech | About his experience in GNDEC & its heritage |
+| 02:30 PM - 03:30 PM | 🔶 Dr. Lakhvir Singh Khana Sir Lecture | About CML & SWAYAM-NPTEL |
+
+---
+
+> ✨ *Day 6 connected logic with legacy — from C++ syntax to alumni stories and future-ready platforms like SWAYAM & NPTEL!* 🚀
+
+---
