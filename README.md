@@ -281,7 +281,7 @@
 📍 *Location:* Auditorium   
 - An **Informative** Lecture about **Conduct of Examination.**
 - Learnt about **Marking Schemes** and **Passing Criteria.**
-- Got to know about *[Academics](academics.gndec.ac.in)* & *[Guru](guru.gndec.ac.in) Portal.*
+- Got to know about *[Academics](https://academics.gndec.ac.in/)* & *[Guru](https://guru.gndec.ac.in/) Portal.*
 
 ### 🔶 **Break Time** `⏰ 12:30 P.M. - 01:30 P.M.`  
 - Got time to grab lunch and relax.  
