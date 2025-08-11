@@ -262,7 +262,7 @@
 
 ---
 
-## 📅 Day 7 — From Campus Life to Circuit Loops 🎓🔁📡
+## 📅 Day 7 — From Campus Life to Circuit Loops!
 
 ---
 
