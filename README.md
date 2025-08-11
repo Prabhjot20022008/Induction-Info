@@ -262,6 +262,59 @@
 
 ---
 
+## 📅 Day 7 — From Campus Life to Circuit Loops 🎓🔁📡
+
+---
+
+### 🔶 **Dr. Parminder Singh Sir Lecture** `⏰ 9:30 A.M. - 10:30 A.M.`  
+📍 *Location:* Auditorium   
+- **Dean of Student Welfare** explained about various facilities in the College.
+- Explained about various **Clubs** &  **Societies.**
+
+### 🔶 **Dr. Amit Kamra Sir Lecture** `⏰ 10:30 A.M. - 11:30 A.M.`  
+📍 *Location:* Auditorium   
+- Gave brief about **Digital Marketing Club** of the College.
+- Showed various **videos, reels** & **social media** handles managed by **DMC.**
+- Gave a form to the **Students** to send videos to showcase their **Talent.**
+
+### 🔶 **Dr. Randhir Singh Sir Lecture** `⏰ 11:30 A.M. - 12:30 P.M.`  
+📍 *Location:* Auditorium   
+- An **Informative** Lecture about **Conduct of Examination.**
+- Learnt about **Marking Schemes** and **Passing Criteria.**
+- Got to know about *[Academics](academics.gndec.ac.in)* & *[Guru](guru.gndec.ac.in) Portal.*
+
+### 🔶 **Break Time** `⏰ 12:30 P.M. - 01:30 P.M.`  
+- Got time to grab lunch and relax.  
+- Went to **Library** & enjoyed the **Peaceful vibes.**
+
+### 🔶 **BEEE Lecture** `⏰ 01:30 P.M. - 02:30 P.M.`  
+📍 *Location:* Room No. F-107   
+- An **Engaging** Lecture by **Prof. Mandeep Kaur Mam.** 
+- Continued **DC Circuit** chapter.
+- Covered **Networks, Branches, Nodes, Loops** & **Network types.**
+
+### 🔶 **ID Card Formation** `⏰ 03:00 P.M. - 04:00 P.M.`  
+📍 *Location:* Outside TCC Sem Hall   
+- Went to **TCC** for **ID Card Formation.**  
+- Took **Photograph,** gave **Aadhaar and other info.**
+
+## 🧾 In a Nutshell
+
+| 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
+|----------------------|-------------------------|-----------------------------------------------|
+| 9:30 AM - 10:30 AM  | 🔶 Dr. Parminder Singh Sir Lecture | About College Facilities and Clubs |
+| 10:30 AM - 11:30 AM | 🔶 Dr. Amit Kamra Sir Lecture | Brief intro about DMC |
+| 10:30 AM - 11:30 AM | 🔶 Dr. Amit Kamra Sir Lecture | Brief intro about DMC |
+| 12:30 PM - 01:30 PM | 🔶 Break | Lunch & Library Time |
+| 01:30 PM - 02:30 PM | 🔶 BEEE Lecture | About Networks, Branches, Nodes, Loops and Network types |
+| 03:00 PM - 04:00 PM | 🔶 ID Card Formation | Photograph & other details for ID Card |
+
+---
+
+> ✨ *Day 7 stitched it all together — clubs, circuits, conduct, and creativity. The GNDEC experience keeps getting richer!* 🚀
+
+---
+
 ## 📅 Day 8 —  Logic Unlocked & Loops Mastered!
 
 ---
