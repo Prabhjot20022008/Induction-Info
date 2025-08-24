@@ -337,3 +337,38 @@
 > ✨ *Day 8 gave me the real flow of programming — now loops and conditions feel like second nature!* 🚀
 
 ---
+
+## 📅 Day 9 — From Clubs to Future tech!
+
+---
+
+### 🔶 **Clubs Interaction** `⏰ 9:30 A.M. - 10:30 A.M.`  
+📍 *Location:* Auditorium   
+- Members of **English Club** & **Mathemagic Club** gave a brief intro about their respective clubs.
+- An interactive session involving **Quizzes** and other **Fun activities.**
+
+### 🔶 **IKIGAI School of AI** `⏰ 10:30 A.M. - 12:00 NOON`  
+📍 *Location:* Auditorium   
+- **The Speaker** explained about **AI, ML** & **DL.**
+- Gave **Real-life** examples to make the topics *Crystal Clear.*
+- Got to know about the collab of **IKIGAI** with **GAIL**, *a multi-million company.*
+- Explained about **Future of Jobs** & Impact of **AI** on jobs.
+
+### 🔶 **Dumb-Charades Emoji Edition** `⏰ 12:00 NOON - 12:15 P.M.` 
+📍 *Location:* Auditorium  
+- A **Fun** & **Interactive** activity to guess the **Movie, City** & **Country** name.  
+- **Brilliant** way to end the day on an **High Note.**
+
+## 🧾 In a Nutshell
+
+| 🕒 Time | 🗂️ Activity | 📌 Key Highlights |
+|----------------------|-------------------------|-----------------------------------------------|
+| 9:30 AM - 10:30 AM  | 🔶 Clubs Interaction | Club intro & engaging activities |
+| 10:30 AM - 12:00 NOON | 🔶 IKIGAI School of AI | About AI & its impact of future jobs |
+| 12:00 NOON - 12:15 PM | 🔶 Dumb-Charades Emoji Edition | Guess the Movie, City and Country Name |
+
+---
+
+> ✨ *Day 9 blended fun, knowledge, and imagination — proving that learning is as lively as it is limitless!* 🚀
+
+---
